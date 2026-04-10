@@ -1,5 +1,3 @@
-# GenAI Bootcamp — `main.py` (LLM Prompt Tasks)
-
 ## Project Overview
 
 **`main.py`** is a small Python script that demonstrates **prompt engineering** and **LLM integration** through several independent tasks: support-ticket classification, logic-puzzle solving, Python code generation from natural language, and email signature parsing. It uses the **Chat Completions** interface to send structured prompts and read model replies as plain text (often JSON-shaped).
